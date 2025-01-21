@@ -8,7 +8,7 @@ public class SomeOtherClass
         Console.WriteLine("Prof. Hilton is making a change to the code");
 
         Console.WriteLine("Let's do things the right way");
-        Console.WriteLine("Making another change");
+        Console.WriteLine("Making yet another change");
 
     }
 }
